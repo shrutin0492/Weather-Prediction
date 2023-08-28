@@ -10,4 +10,4 @@ The notebook contains a detailed walkthrough of the implementation, results and 
 
 ## Data set
 
-The data set use for training and testing the model can be found [here](data/weather.csv).
+The data set used for training and testing the model can be found [here](data/weather.csv).
